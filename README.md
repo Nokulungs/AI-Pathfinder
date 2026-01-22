@@ -14,4 +14,4 @@ Contextual Intelligence: Supports multi-turn conversations with up to 3 follow-u
 
 Resource Integration: Dynamically recommends "Further Learning" modules and provides citations from industry-leading courses.
 
-Tech Stack:Landbot OpenAI API, NLP, Logic Branching.
+Tech Stack:Landbot OpenAI API, NLP, Logic Branching.  
